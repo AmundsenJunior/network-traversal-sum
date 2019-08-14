@@ -4,7 +4,6 @@ suppressPackageStartupMessages(library(jsonlite))
 library(magrittr)
 
 # TODO: make use of multicore processing to traverse network asynchronously
-#install.packages('future')
 #library(future)
 #plan(multiprocess)
 
