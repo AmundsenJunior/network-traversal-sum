@@ -1,0 +1,11 @@
+# R package dependencies for the Algorithmia environment
+# 
+# These packages are installed outside the algorithm,
+# so the algo only needs to load them via "library(pkgnme)"
+
+testthat
+algorithmia
+magrittr
+jsonlite
+dplyr
+future
