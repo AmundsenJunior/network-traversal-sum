@@ -1,5 +1,5 @@
 # node-traverser
-R script for traversing all nodes in a given network, where http://abc.url/parent provides a JSON of child nodes and node value
+Example scripts/CLI tools in R & Go for traversing all nodes in a given network, where http://abc.url/parent provides a JSON of child nodes and node value
 
 ## Example network
 ```
